@@ -1,0 +1,32 @@
+.info-background-color{
+    background-color: #fceae8;
+
+}
+.categories-background-color{
+    background-color: #ffa500;
+
+}
+.text-color-custom{
+    color: #ffa500;
+
+}
+.categories img{
+    width: 100px;
+}
+.categories-2-background-color{
+    background-color: #da70d6;
+}
+.button-background-color{
+    color: white;
+    border-radius: 8px;
+    padding: 9px;
+    border:none;
+    background-color: #ff3c89;
+}
+.button-background-color-black{
+    color: white;
+    border-radius: 8px;
+    padding: 9px;
+    border:none;
+    background-color: black;
+}
